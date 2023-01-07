@@ -7,7 +7,7 @@
 </p>
 
 
-<p align="left">
+<p align="right">
 <a href="https://dev.to/sadnan736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sadnan736" height="30"/></a>
 <a href="https://twitter.com/sadnan736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadnan736" height="30"/></a>
 <a href="https://linkedin.com/in/sadnan736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadnan736" height="30"/></a>
@@ -15,14 +15,9 @@
 <a href="https://www.youtube.com/c/@sadnan736" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sadnan736" height="30"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sadnan736&label=Profile%20views&color=0e75b6&style=flat" alt="sadnan736" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sadnan736&label=Profile%20views&color=0e75b6&style=flat" alt="sadnan736" /> </p>
 
 
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Git &amp; GitHub: What is Git? | #1](https://dev.to/sadnan736/git-github-what-is-git-1-22dg)
-<!-- BLOG-POST-LIST:END -->
 
 
 <details open="">
@@ -34,6 +29,7 @@
   
 </details>
 
+
   
  <!--Adding private contributions count to total commits count
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&count_private=true)-->
@@ -43,6 +39,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)-->
 <!--theme colour change  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitul3737&show_icons=true&theme=merko/dark/ radical/ merko/ gruvbox/ tokyonight/ onedark/ cobalt/ synthwave/highcontrast/ dracula)-->
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+- [Git &amp; GitHub: What is Git? | #1](https://dev.to/sadnan736/git-github-what-is-git-1-22dg)
+<!-- BLOG-POST-LIST:END -->
 
 
 <details>
