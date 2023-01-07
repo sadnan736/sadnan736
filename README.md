@@ -21,6 +21,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Git &amp; GitHub: What is Git? | #1](https://dev.to/sadnan736/git-github-what-is-git-1-22dg)
 <!-- BLOG-POST-LIST:END -->
 
 
