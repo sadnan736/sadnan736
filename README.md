@@ -24,7 +24,9 @@
   <summary><b>GitHub Stats</b></summary>
   <p align="center">
     <a href="https://github.com/sadnan736/sadnan736"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=sadnan736&theme=highcontrast"/></a>
+    
     <a href="https://github.com/sadnan736/sadnan736"><img alt="Mitul's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sadnan736&show_icons=true&theme=merko" width=55%/></a>
+    
     <a href="https://github.com/sadnan736/sadnan736"><img alt="Sadnan's language used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadnan736&layout=compact&langs_count=8&theme=gruvbox" width=40%/></a>
   
 </details>
