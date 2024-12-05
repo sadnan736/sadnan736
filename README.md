@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/sadnan736/sadnan736/blob/main/Wave.gif" height="55px" width="55px"></h1>
-<h1 align="center">I'm Sadnan Islam</h1>
+<h1 align="center"><img src="https://github.com/sadnan736/sadnan736/blob/main/Wave.gif" height="55px" width="55px"> Hi <img src="https://github.com/sadnan736/sadnan736/blob/main/Wave.gif" height="55px" width="55px"> <br>I'm Sadnan</h1>
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
